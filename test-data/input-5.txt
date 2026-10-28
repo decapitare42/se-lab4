@@ -1,0 +1,4 @@
+# Test 5: SINGLE primary empty at start: fires secondary
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

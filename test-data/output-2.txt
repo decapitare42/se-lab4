@@ -1,0 +1,5 @@
+# Test 2: SINGLE alternates primary-secondary-primary
+SUCCESS
+SUCCESS
+FAIL
+SUCCESS

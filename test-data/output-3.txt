@@ -1,0 +1,4 @@
+# Test 3: SINGLE primary failure: no retry, then secondary
+SUCCESS
+FAIL
+SUCCESS

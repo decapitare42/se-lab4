@@ -1,0 +1,4 @@
+# Test 8: ALL fires both stores
+SUCCESS
+SUCCESS
+FAIL

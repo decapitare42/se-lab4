@@ -1,0 +1,4 @@
+# Test 7: SINGLE secondary failure: no retry on primary
+SUCCESS
+SUCCESS
+FAIL

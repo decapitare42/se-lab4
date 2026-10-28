@@ -1,0 +1,4 @@
+# Test 5: SINGLE primary empty at start: fires secondary
+SUCCESS
+SUCCESS
+FAIL

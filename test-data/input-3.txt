@@ -1,0 +1,4 @@
+# Test 3: SINGLE primary failure: no retry, then secondary
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
