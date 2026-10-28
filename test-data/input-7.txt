@@ -1,0 +1,4 @@
+# Test 7: SINGLE secondary failure: no retry on primary
+GT4500,10,0,1,1.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,0 +1,5 @@
+# Test 4: SINGLE secondary empty: fires primary again
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL
